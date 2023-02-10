@@ -7,15 +7,15 @@
 - [Solution to the problem.](#key-solution-to-the-problem)
 - [Tools](#hammer_and_wrench-Tools)
 - [Architecture of this project](#house-architecture-of-this-project)
-  - [Kubernetes cluster]
-  - [Containerized vprofile Application]
-  - [Create EBS volume for DB Pod]
-  - [Label Node with zones names]
-  - [Create Kubernetes Definition file]
-  - [Deployment]
-  - [Service]
-  - [Secrete]
-  - [Volume] 
+  - [Kubernetes cluster](#package-kubernetes-cluster)
+  - [Containerized vprofile Application](#package-containerized-vprofile-application)
+  - [Create EBS volume for DB Pod](#package-create-ebs-volume-for-db-pod)
+  - [Label Node with zones names](#package-label-node-with-zones-names)
+  - [Create Kubernetes Definition file](#package-create-kubernetes-definition-file)	
+  - [Deployment](#package-deployment)	
+  - [Service](#package-service)
+  - [Secrete](#package-secrete)
+  - [Volume](#package-volume)
 - [Verify from browser](#earth_africa-verify-from-browser) 
 - [Resources](#page_facing_up-resources)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
